@@ -1,6 +1,6 @@
-## Faraday
+## .dir
 
-Faraday is a file manager inspired by [Far Manager](https://github.com/FarGroup/FarManager) and [Visual Studio Code](https://github.com/microsoft/vscode).
+.dir is a file manager inspired by [Far Manager](https://github.com/FarGroup/FarManager) and [Visual Studio Code](https://github.com/microsoft/vscode).
 
 <!--
 
